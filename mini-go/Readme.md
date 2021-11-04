@@ -13,8 +13,7 @@ Example 2:The 3 white stones are captured as a connected group.
 Example 3. The two groups of white stones are captured.
 ![image](https://github.com/AtomNotShy/Atom/blob/master/mini-go/images/example3.png)
 
-Example 4 (Special example). This example illustrates the rule that a capturing stone need not have a liberty until the captured stones are removed.
-
+Example 4. This example illustrates the rule that a capturing stone need not have a liberty until the captured stones are removed.
 ![image](https://github.com/AtomNotShy/Atom/blob/master/mini-go/images/example4.png)
 
 ### Rule 2: The “KO” Rule
