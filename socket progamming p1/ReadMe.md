@@ -1,6 +1,6 @@
 # Socket Programingg PA1
 
-## Author: Tong Zhou ID: 6413480147
+## Author: Tong Zhou
 
 ### Content
 
