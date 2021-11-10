@@ -5,15 +5,19 @@ This project developed a agent to play a small version of the Go game, called Go
 Every stone remaining on the board must have at least one open point, called a liberty, directly orthogonally adjacent (up, down, left, or right), or must be part of a connected group that has at least one such open point (liberty) next to it. Stones or groups of stones which lose their last liberty are removed from the board (called captured).
 
 Example 1:The white stone is captured after Black plays at position 1, because its directly orthogonally adjacent points are occupied.
+
 ![image](https://github.com/AtomNotShy/Atom/blob/master/mini-go/images/example1.png)
 
 Example 2:The 3 white stones are captured as a connected group.
+
 ![image](https://github.com/AtomNotShy/Atom/blob/master/mini-go/images/example2.png)
 
 Example 3. The two groups of white stones are captured.
-![image](https://github.com/AtomNotShy/Atom/blob/master/mini-go/images/example3.png)
+
+![](https://github.com/AtomNotShy/Atom/blob/master/mini-go/images/example3.png)
 
 Example 4. This example illustrates the rule that a capturing stone need not have a liberty until the captured stones are removed.
+
 ![image](https://github.com/AtomNotShy/Atom/blob/master/mini-go/images/example4.png)
 
 ### Rule 2: The “KO” Rule
